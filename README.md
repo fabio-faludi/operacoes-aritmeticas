@@ -19,16 +19,12 @@ Esse pequeno programa console realiza operações aritméticas basicas de:
 
 Dê um duplo clique no arquivo abaixo e descompacte na pasta desejada.
 
-Descompacte o arquivo abaixo na pasta desejada.
-
 [🤐 Download do arquivo .ZIP](dist/operacoes-aritmeticas.zip)
 
 
 ## Linha de Comando para excecução
 
-Se estiver utilizando o Sistema Operacional Windows, dê um duplo-clique no arquivo **operacoes-aritmeticas.exe**.
-
-Se estiver utilizando outro Sistema Operacional, execute a linha de comando abaixo:
+Se estiver utilizando o Sistema Operacional Windows, dê um duplo-clique no arquivo **operacoes-aritmeticas.exe**, caso contrário, execute a linha de comando abaixo:
 
 ```
 dotnet operacoes-aritmeticas.dll
@@ -36,9 +32,9 @@ dotnet operacoes-aritmeticas.dll
 
 ## Agradecimentos
 
-- [Figgle]((https://github.com/drewnoakes/figgle))
+- [Figgle](https://github.com/drewnoakes/figgle)
 - [Prof. Ermogenes Palacio](https://github.com/ermogenes)
-- [Dev C#]((https://github.com/ermogenes/aulas-programacao-csharp)) 
+- [Dev C#](https://github.com/ermogenes/aulas-programacao-csharp)
 
 ---
-Copyright (C) [Fábio Luiz Dias](httpa://github.com/fabio.faludi). Todos os direitos reservados.
+Copyright (C) [Fábio Luiz Dias](https://github.com/fabio.faludi). Todos os direitos reservados.
