@@ -19,7 +19,7 @@ Esse pequeno programa console realiza operações aritméticas basicas de:
 
 Dê um duplo clique no arquivo abaixo e descompacte na pasta desejada.
 
-[🤐 Download do arquivo .ZIP](dist/operacoes-aritmeticas.zip)
+[🤐  Download do arquivo .ZIP](dist/operacoes-aritmeticas.zip)
 
 
 ## Linha de Comando para excecução
