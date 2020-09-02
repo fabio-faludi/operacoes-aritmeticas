@@ -2,7 +2,8 @@
 
 ## _Propósito_
 
-Esse pequeno sistema console realiza operações aritméticas basicas de:
+Esse pequeno programa console realiza operações aritméticas basicas de:
+
 * Adição
 * Subtração
 * Multiplicação
@@ -10,21 +11,34 @@ Esse pequeno sistema console realiza operações aritméticas basicas de:
 * Potenciação
 * Radiciação
 
-## _Linha de Comando para excecução_
-```
-dotnet OperacoesAritmeticas.dll
-```
+## _Screenshot_
 
-## _Tela Inicial_
-
-![Tela Inici al do Sistema]()
+![tela do programa](tela.PNG)
 
 ## _Download_
 
+Dê um duplo clique no arquivo abaixo e descompacte na pasta desejada.
+
+Descompacte o arquivo abaixo na pasta desejada.
+
+[🤐 Download do arquivo .ZIP](dist/operacoes-aritmeticas.zip)
+
+
+## Linha de Comando para excecução
+
+Se estiver utilizando o Sistema Operacional Windows, dê um duplo-clique no arquivo **operacoes-aritmeticas.exe**.
+
+Se estiver utilizando outro Sistema Operacional, execute a linha de comando abaixo:
+
+```
+dotnet operacoes-aritmeticas.dll
+```
+
+## Agradecimentos
+
+- [Figgle]((https://github.com/drewnoakes/figgle))
+- [Prof. Ermogenes Palacio](https://github.com/ermogenes)
+- [Dev C#]((https://github.com/ermogenes/aulas-programacao-csharp)) 
 
 ---
-Desenvolvido por: [Fábio Luiz Dias](httpa://github.com/fabio.faludi)
-
-## _Agradecimentos_
-
-[Ermogenes Palacio](https://github.com/ermogenes)
+Copyright (C) [Fábio Luiz Dias](httpa://github.com/fabio.faludi). Todos os direitos reservados.
